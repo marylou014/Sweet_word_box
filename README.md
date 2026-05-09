@@ -4,27 +4,25 @@
 *Une app web pour partager des mots doux.*
 
 <div align="center">
-[![Statut](https://img.shields.io/badge/statut-en%20cours-F2A8B4?style=flat-square)](.)
-[![Stack](https://img.shields.io/badge/stack-HTML%20·%20CSS%20·%20JS-AF1F37?style=flat-square)](.)
-[![Docker](https://img.shields.io/badge/docker-ready-66081B?style=flat-square)](.)
-[![Figma](https://img.shields.io/badge/figma-maquette-EEE0C9?style=flat-square&logo=figma&logoColor=AF1F37)](https://www.figma.com/design/ykhql4vpYEt0ZC4B8IMbKh/Sweet-word-box)
+  
+  [![Statut](https://img.shields.io/badge/statut-en%20cours-6b9efd?style=flat-square&labelColor=E0EAFC&color=6b9efd)](.)
+  [![Stack](https://img.shields.io/badge/stack-HTML%20·%20CSS%20·%20JS-0052a3?style=flat-square&labelColor=E0EAFC&color=0052a3)](.)
+  [![Docker](https://img.shields.io/badge/docker-en%20cours-2B2D42?style=flat-square&labelColor=E0EAFC&color=2B2D42)](.)
 
 </div>
-
----
 
 ## ✨ À propos
 
 **Sweet Word Box** est une petite application web personnelle.
 L'idée : écrire des mots doux à l'avance, les stocker, et les laisser
 apparaître un par un — comme ouvrir un tiroir plein de lettres.
+
 Le but est que les mots apparaise sur un fond sympa (des petits bouts de papier) 
 pour imiter le geste de recevoir des petits papier dans la vrai vie. 
+
 Grâce à un bouton on pourras faire changer les messages.
 
 Simple. Doux. Fait avec amour.
-
----
 
 ## 🖼️ Aperçu
 
@@ -35,7 +33,6 @@ Simple. Doux. Fait avec amour.
 
 🔗 [Voir la maquette complète sur Figma](https://www.figma.com/design/ykhql4vpYEt0ZC4B8IMbKh/Sweet-word-box)
 
----
 
 ## 🎨 Inspiration
 
@@ -53,17 +50,20 @@ des carnets intimes et des teintes bordeaux et rose poudré.
 | Accent | ![#66081B](https://placehold.co/15x15/66081B/66081B.png) | `#66081B` |
 | Secondary | ![#F2A8B4](https://placehold.co/15x15/F2A8B4/F2A8B4.png) | `#F2A8B4` |
 
+
 **Typographies :**
+
 J'ai choisi des typo Google Font, pour leur accésibilité. 
 J'ai selectionné des typo qui correspondaient à la vibes de mon moodboard. 
 - [Gwendolyn](https://fonts.google.com/specimen/Gwendolyn) — titres
 - [Reenie Beanie](https://fonts.google.com/specimen/Reenie+Beanie) — texte
 
+
 **Les Images de fonds et les messages :**
+
 J'ai moi-même ecrits les différents messages et j'ai pris en photo différents morceaux de papier,
 que j'avais "personnalisés et abimés" puis détourer grâce a mon Iphone.
 
----
 
 ## 🧩 Fonctionnalités
 
@@ -71,7 +71,6 @@ que j'avais "personnalisés et abimés" puis détourer grâce a mon Iphone.
 - [ ] Afficher un mot doux aléatoire
 - [ ] Interface visuelle avec support des différents formats (des petits papiers)
 
----
 
 ## 🛠️ Stack technique
 
@@ -81,7 +80,6 @@ que j'avais "personnalisés et abimés" puis détourer grâce a mon Iphone.
 | Docker | Containerisation |
 | Figma | Maquettage UI |
 
----
 
 ## 📁 Structure du projet
 
@@ -98,19 +96,19 @@ sweet-word-box/
 └── README.md
 ```
 
----
 
 ## 📌 Contexte d'apprentissage
 
 Ce projet fait partie de mon parcours d'apprentissage en autonomie du développement web.
+
 Je m'aide de l'IA (comme Claude ou Gemini) et de tutoriel internet, pour en apprendre plus sur de nouvelle techno. 
+
 Ce projet m'a permis de pratiquer :
 
 - Le **design UI sur Figma** (maquette, palette, typographie, composants)
 - La **containerisation avec Docker** (Dockerfile, build, run)
 - La **gestion de projet avec GitHub** (repo, commits, branches)
 
----
 
 ## 🔗 Liens utiles
 
@@ -120,7 +118,6 @@ Ce projet m'a permis de pratiquer :
 | Pinterest | [Board d'inspiration](https://fr.pinterest.com/maryloudums/coding-project/sweet-word-box/) |
 | App en ligne | *bientôt* |
 
----
 
 <div align="center">
 
